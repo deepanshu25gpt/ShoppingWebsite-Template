@@ -1,0 +1,10 @@
+body{
+	background-image: url("../../images/backgrnd.jpg");
+}
+.container{
+	color: white;
+	text-align: center;
+}
+h1{
+	margin-bottom: 50px;
+}
